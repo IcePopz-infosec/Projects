@@ -15,7 +15,7 @@ def caesar_decrypt(ciphertext, shift):
 
 
 # Example usage
-plaintext = "Hello, World!"
+plaintext = "IcePopz infosec"
 shift = 3
 
 encrypted_text = caesar_encrypt(plaintext, shift)
